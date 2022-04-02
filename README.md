@@ -30,6 +30,7 @@ This is the code template repository for the tutorial of cloud-writing on softwa
 # Reference
 - Hexo：https://hexo.io/
 - Theme Shoka：https://github.com/amehime/hexo-theme-shoka
+
 This repository has used parts of the code showed as listed. 
 
 本代码模板包含以上仓库和软件的部分内容。
@@ -46,4 +47,5 @@ The tutorial is based on following articles or documations:
 6. [生成新的 SSH 密钥并将其添加到 ssh-agent](https://docs.github.com/cn/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 7. [yuque-hexo使用文档](https://github.com/x-cold/yuque-hexo)
 8. [解决包含 GitHub Actions Workflow 的分支无法推送的问题](https://blog.walterlv.com/post/github-push-failed-without-workflow-scope.html)
+
 Thank you for your sharing precious experiences.
