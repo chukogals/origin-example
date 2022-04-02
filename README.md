@@ -31,8 +31,11 @@ This is the code template repository for the tutorial of cloud-writing on softwa
 - Hexo：https://hexo.io/
 - Theme Shoka：https://github.com/amehime/hexo-theme-shoka
 This repository has used parts of the code showed as listed. 
+
 本代码模板包含以上仓库和软件的部分内容。
+
 The tutorial is based on following articles or documations: 
+
 感谢以下文档为我完成这篇教程提供的帮助。
 
 1. [Hexo：语雀云端写作，Github Actions持续集成](https://blog.csdn.net/z_johnny/article/details/104629805/)
