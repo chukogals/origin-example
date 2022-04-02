@@ -1,0 +1,6 @@
+- site: example
+  owner: A
+  url: https://a.dev/
+  desc: example friends
+  image: https://example.com/a.jpg
+  color: "#e9546b"

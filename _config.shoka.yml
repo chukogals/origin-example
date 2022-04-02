@@ -1,0 +1,109 @@
+alternate: Dream Emerge
+
+# Assets
+statics: //cdn.jsdelivr.net/gh/example/example.github.io@latest/
+
+open_graph:
+  #twitter_id:
+  #google_plus:
+  #fb_admins:
+  #fb_app_id:
+
+menu:
+  home: / || home
+  about: /about/ || user
+  posts:
+    default: / || feather
+    archives: /archives/ || list-alt
+    categories: /categories/ || th
+    tags: /tags/ || tags
+  g-blog: https://chukogals.top/ || address-card
+  friends: /friends/ || heart
+
+# Social Links
+# Usage: `Key: permalink || icon || color`
+# Key is the link label showing to end users.
+# Value before `||` delimiter is the target permalink,
+# secend value is the name of Font icon.
+social:
+  #github: https://github.com/amehime || github || "#191717"
+  #google: https://plus.google.com/yourname || google
+  twitter: https://twitter.com/yourname || twitter || "#00aff0"
+  #zhihu: https://www.zhihu.com/people/yourname || zhihu || "#1e88e5"
+  music: https://music.163.com/#/user/home?id=1234567 || cloud-music || "#e60026"
+  weibo: https://weibo.com/u/1234567 || weibo || "#ea716e"
+  #about: https://about.me/yourname || address-card || "#3b5998"
+  email: mailto:yournamel@126.com || envelope || "#55acd5"
+  facebook: https://www.facebook.com/yourname || facebook
+  #stackoverflow: https://stackoverflow.com/yourname || stack-overflow
+  #youtube: https://youtube.com/yourname || youtube
+  #instagram: https://instagram.com/yourname || instagram
+  #skype: skype:yourname?call|chat || skype
+  #douban: https://www.douban.com/people/yourname/ || douban
+
+# 是否显示页面加载动画 loading-cat
+loader:
+  start: true
+  switch: false
+
+footer:
+  # Specify the date when the site was setup. If not defined, current year will be used.
+  since: 2022
+  count: true
+
+auto_scroll: true
+
+post:
+  count: true
+
+# ---------------------------------------------------------------
+# Third Party Plugins & Services Settings
+# ---------------------------------------------------------------
+
+# Comments
+# Valine
+# For more information: https://valine.js.org, https://github.com/xCss/Valine
+valine:
+  appId: input-your-appid-here
+  appKey: input-your-app-key-here
+  placeholder: ヽ(○´∀`)ﾉ♪ # Comment box placeholder
+  avatar: mp
+  pageSize: 10 # Pagination size
+  lang: zh-CN
+  visitor: true
+  NoRecordIP: false
+  powerMode: true
+  tagMeta:
+    visitor: 游客
+    master: 管理员
+    friend: 好友
+  tagMember:
+    visitor:
+      #
+    master:
+      #
+    friend:
+      # - deea5a8d259d17182a53be1772e4c182
+
+# bgm
+audio:
+   - title: example1
+     list:
+        - https://music.163.com/#/playlist?id=69XXXXXXXX
+   - title: example2
+     list:
+        - https://music.163.com/#/playlist?id=69XXXXXXXX
+
+# Dependencies: https://github.com/amehime/hexo-renderer-multi-markdown-it
+pangu: true
+
+# ---------------------------------------------------------------
+# analytics & SEO Settings
+# ---------------------------------------------------------------
+
+
+# Disable Baidu transformation on mobile devices.
+disable_baidu_transformation: true
+
+# Automatically add external URL with Base64 encrypt & decrypt.
+exturl: true
