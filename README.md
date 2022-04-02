@@ -6,7 +6,7 @@ This is the code template repository for the tutorial of cloud-writing on softwa
 [中文说明在此](https://dream.emerge.cyou/yuque/%E3%80%90%E6%95%99%E7%A8%8B%E3%80%91%E8%AF%AD%E9%9B%80+hexo+github%E6%8C%81%E7%BB%AD%E5%8C%96%E9%83%A8%E7%BD%B2+shoka%E4%B8%BB%E9%A2%98/)
 
 # Usage
-1. Please clone this example repository to your conputer.
+1. Please clone this example repository to your computer.
 2. Prepare tokens and SSH keys on Github and YUQUE. Set up two repositories on Github.
 3. Set up web-knowledge repository(ZHI SHI KU) on YUQUE and set it with a web hook address.
 4. Set up cloud function on cloud service (for example, Tencent).
